@@ -1,0 +1,15 @@
+*.iml
+*.ipr
+*.iws
+*.rar
+.idea/
+.gradle/
+**/.iml
+**/*.txt
+**/*.zip
+**/build
+**/out
+*digest.log
+**/logs
+gradle/
+gradlew*
